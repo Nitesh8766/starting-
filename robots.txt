@@ -1,2 +1,7 @@
 User-agent: *
 Disallow: /archive/
+Disallow:/hidden/
+Disallow:/Flag
+Disallow:/845145127/
+Disallow:/login/
+Disallow:/admin/
